@@ -1,0 +1,18 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "IT Social Circle",
+  "url": "https://www.itsocialcircle.com",
+  "sameAs": [
+    "https://www.linkedin.com/company/ITSocialCircle",
+    "https://x.com/ITSocialCircle",
+    "https://www.instagram.com/itsocialcircle/"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "connect.itsocialcircle@gmail.com",
+    "contactType": "Customer Service"
+  }
+}
+</script>
